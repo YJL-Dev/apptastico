@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfghjkl;
+=======
+de gokkers programma 
+>>>>>>> origin/master
